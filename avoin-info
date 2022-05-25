@@ -2,7 +2,7 @@ ID,CALL,CN,TYPE
 06DDEA22,Ganszauge Mika,KA,Arcus T
 06D0092C,Halonen Hannu,3W,Ventus-3M
 06DDE439,Horma Heikki,EZ,ASG-29
-06465BD2,Jaakkola Aku,W,Ventus-3T
+05465BD2,Jaakkola Aku,W,Ventus-3T
 06DDECFD,Kangasniemi Jarkko,KG,ASG-29E
 06DDEDCD,Koivula Martti,ZO,JS1C Evo 21m Jet
 06D014F7,Lehtonen Esko,2A,ASG-32Mi
@@ -10,6 +10,5 @@ ID,CALL,CN,TYPE
 06DDE9F9,Pääsky Pertti,RA,Arcus E
 06D0042C,Rissanen Sami,EX,EB 28 Edition
 06D01366,Sucksdorff Martti,WS,AS-33Es
+053ECE96,Virki Janne,19,ASG-29E
 06D02159,Virtanen Lasse,AM,Arcus M
-
-
