@@ -9,7 +9,7 @@
     <Waypoint name="Toija" id="0" comment="" altitude="84.0">
       <Location longitude="23.4177833" latitude="60.2677833"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="20000.0"/>
+    <ObservationZone type="Cylinder" radius="30000.0"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Humppila" id="0" comment="" altitude="102.0">
