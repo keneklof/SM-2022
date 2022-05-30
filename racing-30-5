@@ -6,20 +6,20 @@
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Vampula" id="0" comment="" altitude="59.0">
-      <Location longitude="22.6761167" latitude="61.0363833"/>
+    <Waypoint name="Oripaa" id="0" comment="" altitude="101.0">
+      <Location longitude="22.7438833" latitude="60.8727833"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Hameenlinna" id="0" comment="" altitude="116.0">
-      <Location longitude="24.4733333" latitude="60.9711167"/>
+    <Waypoint name="Renko" id="0" comment="" altitude="116.0">
+      <Location longitude="24.29055" latitude="60.9016667"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Loimaa" id="0" comment="" altitude="99.0">
-      <Location longitude="23.07" latitude="60.8413833"/>
+    <Waypoint name="Urmaankulma" id="0" comment="" altitude="83.0">
+      <Location longitude="23.1222167" latitude="60.6875"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
