@@ -6,20 +6,20 @@
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Lauttakyla" id="0" comment="" altitude="81.0">
-      <Location longitude="22.67555" latitude="61.16945"/>
+    <Waypoint name="Alastaro" id="0" comment="" altitude="69.0">
+      <Location longitude="22.8638833" latitude="60.9541667"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Somero" id="0" comment="" altitude="96.0">
-      <Location longitude="23.5202833" latitude="60.6222167"/>
+    <Waypoint name="Saukkola" id="0" comment="" altitude="103.0">
+      <Location longitude="23.9577833" latitude="60.3802833"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Honkilahti" id="0" comment="" altitude="64.0">
-      <Location longitude="22.1327833" latitude="60.9727833"/>
+    <Waypoint name="Ylane" id="0" comment="" altitude="49.0">
+      <Location longitude="22.4016667" latitude="60.8866667"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
