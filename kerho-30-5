@@ -6,14 +6,14 @@
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Kanteenmaa" id="0" comment="" altitude="94.0">
-      <Location longitude="22.93695" latitude="61.0622167"/>
+    <Waypoint name="Metsamaa" id="0" comment="" altitude="90.0">
+      <Location longitude="23.1552833" latitude="60.9377833"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Letku" id="0" comment="" altitude="120.0">
-      <Location longitude="23.7738833" latitude="60.7038833"/>
+    <Waypoint name="Heinaistenranta" id="0" comment="" altitude="117.0">
+      <Location longitude="23.9761167" latitude="60.5552833"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
@@ -24,8 +24,8 @@
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Tervakoski" id="0" comment="" altitude="118.0">
-      <Location longitude="24.6672167" latitude="60.8236167"/>
+    <Waypoint name="Vehmainen" id="0" comment="" altitude="110.0">
+      <Location longitude="24.39055" latitude="60.8125"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
