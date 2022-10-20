@@ -1,8 +1,8 @@
 {
   "comps": [
       {
-          "id": "club",
-          "name": "JWGC 2022 - Club Class",
+          "id": "open",
+          "name": "SM 2022 - Avoin luokka",
           "short": "Club Class",
           "task": "https://www.soaringspot.com/en_gb/purjelennon-sm-kilpailut-2022/results/avoin",
           "colour": "#0074D9"
