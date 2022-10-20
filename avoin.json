@@ -1,20 +1,12 @@
-[
-  {
-    "name": "Martti Koivula [FIN]",
-    "cn": "GO",
-    "glider": "JS-1",
-    "comp": "avoin",
-    "flarm": [
-      "40595D"
-    ]
-  },
-  {
-    "name": "Tero Toivoton [FIN]",
-    "cn": "69",
-    "glider": "Ka-6CR",
-    "comp": "avoin",
-    "flarm": [
-      "FD3C5F"
-    ]
-  }
-]
+{
+  "comps": [
+      {
+          "id": "open",
+          "name": "SM 2022 - Avoin luokka",
+          "short": "Avoin",
+          "task": "https://www.soaringspot.com/en_gb/purjelennon-sm-kilpailut-2022/results/avoin",
+          "colour": "#0074D9"
+      }
+  ],
+  "gliders": "https://raw.githubusercontent.com/keneklof/sm2022/main/glidersOpen"
+}
