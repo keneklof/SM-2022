@@ -5,7 +5,7 @@
           "name": "SM 2022 - Avoin luokka",
           "short": "Avoin luokka",
           "task": "https://www.soaringspot.com/en_gb/purjelennon-sm-kilpailut-2022/results/avoin",
-          "colour": "#ff0000"
+          "colour": "#0074D9"
       }
   ],
   "gliders": "https://raw.githubusercontent.com/keneklof/sm2022/main/glidersOpen"
