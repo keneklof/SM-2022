@@ -3,7 +3,14 @@
     "name": "Tero Toivoton [FIN]",
     "cn": "69",
     "glider": "Ka-6CR",
-    "comp": "avoin",
+    "comp": "Avoin",
+    "flarm": ["DDEDCD"]
+  },
+  {
+    "name": "Martti Koivula[FIN]",
+    "cn": "GO",
+    "glider": "JS1C Evo 21m Jet",
+    "comp": "Avoin",
     "flarm": ["FD3C5F"]
   }
 ]
